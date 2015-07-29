@@ -195,7 +195,8 @@ FakesAssemblies/
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -258,3 +259,6 @@ node_modules
 
 # Users Environment Variables
 .lock-wscript
+
+# User settings in Visual Studio Code
+.settings
